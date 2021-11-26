@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevJulianStone
 - 👀 I’m interested in programming and technology.
-- 🌱 I’m currently learning C#, Java, Python, HMTL5, CSS3 and Javascript.
+- 🌱 I’m currently learning C#, Java, Python, HMTL5, CSS3, Javascript and SQL.
 - 💞️ I’m looking to collaborate on fun and challenging projects.
 - 📫 How to reach me email: julianstone98@gmail.com
 
