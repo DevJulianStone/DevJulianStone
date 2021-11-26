@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevJulianStone
+- 👋 Hi, I’m Julian Stone
 - 👀 I’m interested in programming and technology.
 - 🌱 I’m currently learning C#, Java, Python, HMTL5, CSS3, Javascript and SQL.
 - 💞️ I’m looking to collaborate on fun and challenging projects.
